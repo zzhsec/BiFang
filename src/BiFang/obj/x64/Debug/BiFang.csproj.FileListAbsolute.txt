@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\bin\x64\Debug\BiFang.exe.config
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\bin\x64\Debug\BiFang.exe
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\bin\x64\Debug\BiFang.pdb
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\bin\x64\Debug\dnlib.dll
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\bin\x64\Debug\SunnyUI.Common.dll
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\bin\x64\Debug\SunnyUI.dll
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.MainForm.resources
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.exe
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\x64\Debug\BiFang.pdb

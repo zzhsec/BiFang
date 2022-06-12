@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\bin\Release\BiFang.exe.config
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\bin\Release\BiFang.exe
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\bin\Release\BiFang.pdb
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\bin\Release\dnlib.dll
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\bin\Release\SunnyUI.Common.dll
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\bin\Release\SunnyUI.dll
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.MainForm.resources
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.exe
+C:\Users\Administrator\Source\Repos\BiFang\src\BiFang\obj\Release\BiFang.pdb
+C:\Users\Administrator\source\repos\BiFang\src\BiFang\obj\Release\BiFang.csproj.AssemblyReference.cache
