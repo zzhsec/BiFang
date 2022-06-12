@@ -1,6 +1,6 @@
 # BiFang BypassAV 小工具
 
-BiFang c# 编写自动化生成loader，实现加密、混淆、bypass沙箱、多种现有进程注入技术，动态编译生成。目的在于学习现有技术，实现易用的shellcode生成器，以及快速整合新技术到项目中。
+自动化生成loader，实现加密、混淆、bypass沙箱、多种现有进程注入技术，动态编译生成。目的在于学习现有技术，实现易用的shellcode生成器，以及快速整合新技术到项目中。
 
 ## 使用说明
 
@@ -75,6 +75,8 @@ https://github.com/3xpl01tc0d3r/ProcessInjection
 https://github.com/Kara-4search/HellgateLoader_CSharp
 
 https://github.com/Kara-4search/NewNtdllBypassInlineHook_CSharp
+
+https://github.com/Hzllaga/ShellcodeLoader
 
 
 
